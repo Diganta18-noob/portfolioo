@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+
+.codex/
+.publish-checkout/
+design-backups/
+preview.png
+menu-preview.png
